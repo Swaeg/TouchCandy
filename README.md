@@ -7,6 +7,8 @@ Based on Micah Scott's Fadecandy project: https://github.com/scanlime/fadecandy
 
 Fadecandy forum: https://groups.google.com/forum/#!forum/fadecandy
 
+You can download Touch from: https://www.derivative.ca/088/Downloads/
+
 
 The modified opc.py included in this repo, goes to: \Derivative\TouchDesigner088\bin\Lib
 
