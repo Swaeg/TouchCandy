@@ -3,6 +3,13 @@ TouchCandy
 
 Sending pixels from TouchDesigner to Fadecandy
 
+UPDATE: This version does not work with newer versions of Touchdesigner. 
+User Heljick updated the code, a working version can be found at:
+https://github.com/Heljick/FCDesigner
+
+---
+
+
 Based on Micah Scott's Fadecandy project: https://github.com/scanlime/fadecandy
 
 Fadecandy forum: https://groups.google.com/forum/#!forum/fadecandy
