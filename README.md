@@ -4,8 +4,8 @@ TouchCandy
 Sending pixels from TouchDesigner to Fadecandy
 
 UPDATE: This patch does not work with newer versions of Touchdesigner. 
-User Heljick updated the code, a working version can be found at:
-https://github.com/Heljick/FCDesigner
+To remedy this, you have to convert the table to output values between 1-255 instead of 0-255. Will update the patch asap
+
 
 ---
 
